@@ -8,7 +8,7 @@ Yingnan is a PhD candidate at ANU and is jointly supervised by CSIRO and ANU sin
 He who doeth righteousness, is righteous.
 
 ## Research group
-[Knowledge Graph Engineering](https://www.researchgate.net/lab/Knowledge-Graph-Engineering-Armin-Haller)
+[Knowledge Graph Engineering](https://www.researchgate.net/lab/Knowledge-Graph-Engineering-Armin-Haller),
 Institution: Australian National University
 Department: Research School of Management (RSM)
 
@@ -18,10 +18,10 @@ I am interested in a very wide areas of research, as you can see I am quite a "g
 
 ## Links
 
- **ResearchGate** https://www.researchgate.net/profile/Yingnan-Shi
-  **dblp** https://dblp.org/pid/229/3521.html
-   **CSIRO** https://research.csiro.au/kdm/our-people/
-    **CBE, ANU** https://cbe.anu.edu.au/about/staff-directory/mr-yingnan-shi
-     **CIW, CAP, ANU** https://ciw.anu.edu.au/people/yingnan-shi
-      **Linkedin** https://au.linkedin.com/in/yingnan-shi-726348166
+ **ResearchGate** https://www.researchgate.net/profile/Yingnan-Shi |
+  **dblp** https://dblp.org/pid/229/3521.html |
+   **CSIRO** https://research.csiro.au/kdm/our-people/ |
+    **CBE, ANU** https://cbe.anu.edu.au/about/staff-directory/mr-yingnan-shi |
+     **CIW, CAP, ANU** https://ciw.anu.edu.au/people/yingnan-shi |
+      **Linkedin** https://au.linkedin.com/in/yingnan-shi-726348166 |
 
